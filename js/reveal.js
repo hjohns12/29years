@@ -136,7 +136,7 @@
 
 			// Transition style
 			transition: 'fade', // none/fade/slide/convex/concave/zoom
-
+					
 			// Transition speed
 			transitionSpeed: 'default', // default/fast/slow
 
